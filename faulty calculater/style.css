@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 60vh;
+    width: 40vw;
+  border: 1px solid black;
+  margin: 60px auto;    
+}
+.container button{
+    padding: 10px 35px;
+    background-color: orangered;
+    margin: 30px 23px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.container input{
+    padding: 10px 25px;
+    margin: 15px;
+}
+#output{
+    height: 10vh;
+    width: 20vw;
+    border: 2px solid black;
+    margin: 0px auto;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 110px;
+}
